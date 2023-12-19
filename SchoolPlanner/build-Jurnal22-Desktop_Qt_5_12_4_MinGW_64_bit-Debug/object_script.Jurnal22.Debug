@@ -1,0 +1,10 @@
+debug/main.o
+debug/mainwindow.o
+debug/raspisanie.o
+debug/secondwin.o
+debug/help.o
+debug/qrc_resource.o
+debug/moc_mainwindow.o
+debug/moc_raspisanie.o
+debug/moc_secondwin.o
+debug/moc_help.o

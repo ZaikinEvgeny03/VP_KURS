@@ -1,0 +1,10 @@
+release/main.o
+release/mainwindow.o
+release/raspisanie.o
+release/secondwin.o
+release/help.o
+release/qrc_resource.o
+release/moc_mainwindow.o
+release/moc_raspisanie.o
+release/moc_secondwin.o
+release/moc_help.o
